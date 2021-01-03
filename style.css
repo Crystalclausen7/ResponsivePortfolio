@@ -1,0 +1,134 @@
+
+
+.brandstyle {
+  background-color: pink;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20%;
+}
+
+
+.indexstyle{
+  background-color: pink;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 27%;
+}
+
+
+
+
+
+body{
+  background-color: gray;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+
+.container-style{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  padding-right: 60px;
+  font-family: 'Times New Roman', Times, serif;
+  color: pink;
+}
+
+
+
+.navstyle {
+  background-color: white;
+}
+
+
+.style-form{
+  border-top: 2px solid white;
+}
+
+
+
+
+
+.content-color{
+  background-color: black;
+  padding-bottom: 10px;
+}
+
+
+h1 {
+  color: white;
+  font-family: verdana;
+}
+
+
+.card-style{
+  padding: 1.25rem;
+  border-color: transparent;
+}
+
+
+
+
+.contactstyle{
+  font-weight: bold;
+  color: lightseagreen;
+  margin-top: 10px;
+}
+
+
+.portfoliostyle{
+  font-weight: bold;
+  color: lightseagreen;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.buttoncolor{
+  background-color: pink;
+}
+
+
+
+
+img{
+  float: left;
+}
+
+
+.cardstyle{
+  height: 42;
+  width: 42;
+}
+
+
+.card{
+  border: none;
+}
+
+.no-left-padding{
+  padding-left: 0px;
+}
+
+
+html{
+  position: relative;
+  min-height: 100%;
+}
+
+
+.footerstyletest {
+  background-color: white (77, 72, 72);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  overflow: hidden;
+  border-top: 4px solid lightgreen;
+  color: lightgray(77, 72, 72);
+
+}
